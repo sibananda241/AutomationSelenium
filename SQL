@@ -19,3 +19,5 @@ Postgress is a tool is used for to take the data from Application and store in d
 SQL is Structured Query Language , which is used to talk to our database.
 Ex. SELECT * FROM person_db
 
+6.mongo
+
