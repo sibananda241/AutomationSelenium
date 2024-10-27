@@ -1,0 +1,21 @@
+1. What is Database ?
+An Organised collection of Data, A Method to manipulate and access the data.
+2. DBMS ?
+Software that manages and interacts with the database.
+3.RDBMS ?
+A type of database system that stores data in structured tables using rows and coloumns and uses SQL for managing & querying data.
+4.Some other databases are
+                          1.MongoDB
+						  2.Oracle
+						  3.MySQL
+						  4.SQLite
+						  5.Postgresql 
+						  6.MaxDB
+						  7.Firebard
+						  8.Redis
+5. Postgresql vs SQL
+Postgresql is a tool that is RDBMS or DBMS.
+Postgress is a tool is used for to take the data from Application and store in database for using SQL Language.
+SQL is Structured Query Language , which is used to talk to our database.
+Ex. SELECT * FROM person_db
+
